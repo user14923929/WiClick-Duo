@@ -6,6 +6,8 @@ A project demonstrating communication between **Arduino Uno + ESP-01** and **ESP
 
 WiClick Duo is a simple example of network interaction between two microcontrollers:
 
+![Image](https://github.com/user14923929/WiClick-Duo/blob/master/.github/assets/Scheme.png)
+
 - Arduino Uno with ESP‑01 module acts as a server  
 - ESP32 works as a client  
 - A button connected to Arduino controls an LED on the ESP32  
