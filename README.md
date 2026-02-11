@@ -52,8 +52,10 @@ WiClick Duo is a simple example of network interaction between two microcontroll
 ## Project Structure
 
 - `./firmware/server/server.ino` — firmware for Arduino Uno / Nano / Mega 
-- `./firmware/client/client.ino` — firmware for ESP32 / S2 / S3 / C2 / C6 / H2
+- `./firmware/client/client.ino` or `./firmware/client/client.py` (MicroPython) — firmware for ESP32 / S2 / S3 / C2 / C6 / H2
+###
 - README.md — project documentation
+- LICENSE — project <a href="https://github.com/user14923929/WiClick-Duo?tab=readme-ov-file#license">mit license</a>
 
 ## Possible Improvements
 
@@ -69,8 +71,8 @@ Created as an educational example of Arduino and ESP32 interaction over Wi‑Fi.
 
 ---
 
-Happy hacking! 😄
+> Happy hacking! 😄
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License - <a href="https://github.com/user14923929/WiClick-Duo/blob/master/LICENSE">See</a> LICENSE file for details
